@@ -1,0 +1,21 @@
+p{
+    color: aqua;
+    background-color: black;
+    text-decoration: overline;
+}
+
+body{
+    background-image: url(images/future.png);
+    background-repeat: no-repeat;
+}
+
+.red{
+    color: red;
+}
+
+#one{
+    background-color: rebeccapurple;
+    color:aliceblue;
+    padding: 100px 50px 150px 0px;
+    
+}
